@@ -61,7 +61,7 @@ $ cd desafio-fundamentos-node
 $ yarn
 
 # Run the app
-$ yarn start
+$ yarn dev:server
 ```
 
 ## :package: API
