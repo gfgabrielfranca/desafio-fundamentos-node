@@ -72,7 +72,7 @@ Click the button below to import the API into Insomnia for more details.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/gfgabrielfranca/be-the-hero/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/gfgabrielfranca/desafio-fundamentos-node/blob/master/LICENSE) for more information.
 
 ---
 
